@@ -1,2 +1,2 @@
 # Food_Suggestion_App
-Created with CodeSandbox
+A app built with ReactJS. This app will suggest the food suggestion based on the selected categories by user.
